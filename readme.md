@@ -2,6 +2,9 @@
 
 Github2Text is a Python application that allows users to easily convert the contents of a GitHub repository into a single text file. It provides a graphical user interface for selecting specific files from the repository and generating a comprehensive text output.
 
+![image](https://github.com/Egalitaristen/Github2Text/assets/86793055/19c66380-d34a-4b68-bf33-6f0aa8661ee5)
+
+
 ## Features
 
 - Fetch files from any public GitHub repository
